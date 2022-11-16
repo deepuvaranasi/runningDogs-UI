@@ -1,0 +1,137 @@
+.homeExtension{    
+    margin: 1rem 4rem 4rem 4rem ;
+}
+.homeExtension h2{
+    font-size: 2rem;
+}
+.homeExtension p{
+    font-size: 1rem;
+    font-weight: bold;    
+}
+.input-text{
+    margin-top: 1rem;
+    font-size: 18px;
+    display: inline;  
+    justify-content: space-between;
+    box-sizing: border-box;
+    text-align: center;
+    border: 1px;
+    padding: 10px 10px;
+    align-items: center; 
+    border-color: black;       
+}
+.btn1{  
+    margin-top: 1rem; 
+    display: inline;     
+    text-decoration: none;
+    border: 0;
+    padding: 1rem 1rem;
+    border-radius: 30px;
+    font-size: 1rem;
+    background: green;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.dogrunner .img1{
+    width: 80%;
+    height: 50vh;
+    position: relative;    
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: -1px 1px 62px -18px rgba(0, o, o, 0.19);
+}
+.dogrunner h2{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.dogrunner p{
+    font-size: 15px;
+    font-weight: bold;
+}
+.btn2{
+    margin-top: 1rem;
+    font-size: 10px;
+    padding-top: 2rem;  
+    text-decoration: none;
+    border: 0;
+    padding: 1rem 1rem;
+    border-radius: 30px;
+    font-size: 1rem;
+    background: green;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.5s
+}
+.canicross .img2{
+    width: 80%;
+    height: 50vh;
+    position: relative;
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: -1px 1px 62px -18px rgba(0, o, o, 0.19);     
+}
+.canicross h2{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.canicross p{
+    font-size: 15px;
+    font-weight: bold;
+}
+.btn3{
+    margin-top: 1rem;
+    font-size: 10px;
+    padding-top: 2rem;  
+    text-decoration: none;
+    border: 0;
+    padding: 1rem 1rem;
+    border-radius: 30px;
+    font-size: 1rem;
+    background: green;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.5s
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 4rem;
+}
+.training{
+    margin: 1rem 4rem 4rem 4rem ;
+    display: inline;
+}
+.img4{
+    margin-top: 10px;
+    margin-left: 0;
+    width: 30%;
+    height: 50VH;
+    position: absolute;
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: -1px 1px 62px -18px rgba(0, o, o, 0.19); 
+}
+.training-text{
+    position: relative;
+    text-align: justify;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box; 
+    width: 40%;
+    height: auto;   
+    border: none;
+    background: #ECE5DB;
+    border-radius: 20px;  
+    
+}
+.training-text h2{
+    font-size: 2rem;
+    font-weight: bold;
+} 
+.training-text p{
+    margin-top: 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+}
