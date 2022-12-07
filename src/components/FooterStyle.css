@@ -1,13 +1,14 @@
 .footer{
-    padding: 2rem 6rem;
-    background-color: #4A4743;
+    padding: 0.5rem 4rem;
+    background-color: #302d2a;
     color: #fff;
 }
 .top{ 
     display: flex;    
     align-items: center;
     text-align: start;    
-    flex-wrap: wrap;    
+    flex-wrap: wrap; 
+    margin-bottom: 0;   
 }
 .top-left a{
     display: flex;
@@ -22,6 +23,7 @@
 }
 .top-center p{
     margin-left: 0%;
+    margin-bottom: 0;
 }
 .top-center input{
     margin-top: 1rem;
@@ -35,13 +37,17 @@
     font-weight: 500;
     margin-top: 1rem;
     padding-right: 150px;
+    padding-top: 1rem;
     background-color: #6E6868;
     color: #fff;
+    border: #fff;
+    border-radius: 10px;
 }
 .payment{
     display: flex;
     flex-wrap: wrap;
-    margin-top: 4rem;
+    margin-top: 1rem;
+   
 }
 .social{
     position: relative;
@@ -68,6 +74,7 @@
 }
 .bottom i{
     display: inline;
+    margin-top: 0;
        
    
 }

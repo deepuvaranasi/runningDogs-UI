@@ -1,0 +1,62 @@
+.container{
+    margin-top: 10rem;
+}
+.login-logo{
+    float: top;
+    width: 160px;
+    height: auto; 
+    position: absolute;
+    margin-bottom: 2rem;
+}
+.app-wraper{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-top: 20rem;
+}
+.username{
+    margin-top: 2rem;
+    margin-left: 0.5rem;
+    position:relative;
+    margin-bottom: 2rem;
+    padding: 0.5rem 2rem 0.5rem 2rem;
+}
+.password{
+    margin-left: 0.5rem;
+    position:relative;
+    margin-bottom: 1rem;
+    padding: 0.5rem 2rem 0.5rem 2rem;
+}
+
+.btn-login{
+    padding: 0.5rem 2rem 0.5rem 2rem;
+    border-radius: 20px;
+    background: green;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.5s;
+    font-size: 15px;
+    font-weight:700;
+    border: #fff; 
+    margin-left: -10px; 
+}
+.btn-signup{
+    padding: 1rem 4rem 1rem 4rem;
+    border-radius: 20px;
+    background: #302d2a;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.5s;
+    font-size: 15px;
+    font-weight:700;
+    border: #fff;
+}
+
+
+
+
+
+
+
+
+

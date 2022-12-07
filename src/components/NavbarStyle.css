@@ -45,9 +45,20 @@
     transition: all 0.2s ease-in-out;
 }
 .nav-links-mobile{
-    display: none;
+    text-decoration: none;
+    color: #222;
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding: 0.7rem 1rem;
+    white-space: nowrap;
 }
-button{
+.nav-links-mobile:hover{
+    background-color: #01959a;
+    color: #fff;
+    border-radius: 4px;
+    transition: all 0.2s ease-in-out;
+}
+/*button{
     padding: 0.5rem 1rem;
     white-space: nowrap;
     border-radius: 0.3rem;
@@ -60,7 +71,7 @@ button{
 button:hover{
     background-color: #01959a  ;
     color: #fff;
-}
+}*/
 .menu-icons{
     display: none;
 }

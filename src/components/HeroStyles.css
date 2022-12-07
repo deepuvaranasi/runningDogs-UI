@@ -80,26 +80,16 @@
     font-weight: 800;
     padding: 0.5rem 0 0.5rem 0;
   }  
-  /* .hero-text .book{
-    position: relative;
-    text-decoration: none;
-    border: 0;
-    padding: 1rem 2rem;
-    border-radius: 20px;
-    font-size: 1rem;
-    font-weight: bold;
-    background: green;
-    color: #fff;
-    cursor: pointer;
-    transition: 0.5s;
-  } */
+ 
 
 /*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
 /*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
 
 @media screen and (max-width: 555px) {
+
     .hero-text h1 {
         padding: 10px 20px;
+        margin-left: 2rem;
 }
 .hero-text p{
     font-size: 1.1rem;
@@ -109,7 +99,14 @@
     padding: 0.6rem 1.1rem;
     border-radius: 6px;
     font-size: 1rem;
+}
+Img{  
+    width: 50%;
+    height: 70%;     
 
+}
+.hero h1{
+   color: none;   
 }
 
 }
